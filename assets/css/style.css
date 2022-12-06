@@ -291,7 +291,7 @@ footer {
 
 /* For medium screen sizes from 950px wide and down */
 
-@media screen and (max-widt: 950px) {
+@media screen and (max-width: 950px) {
     
     #menu {
         clear: left;
@@ -330,6 +330,7 @@ footer {
     }
 }
 
+/* For small screen sizes 800px and down */
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
